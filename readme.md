@@ -1,4 +1,6 @@
 # Szia 
 Sima szoveg
 ## Mas szoveg
-eeeddd
+
+eeeddd bbbb cccc a mi altalunk összefésült kód részlet
+
